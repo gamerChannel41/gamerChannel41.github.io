@@ -1,0 +1,15 @@
+{
+  "name": "Car Game",
+  "short_name": "Car Game",
+  "display": "minimal-ui",
+  "start_url": "/",
+  "theme_color": "#673ab6",
+  "background_color": "#111111",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "200x173",
+      "type": "image/png"
+    }
+  ]
+}
